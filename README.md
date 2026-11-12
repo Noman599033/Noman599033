@@ -21,7 +21,7 @@
 I am a **Software Engineer** with **3+ years of professional experience** building scalable, enterprise-grade web applications using **PHP (Laravel)** and modern **JavaScript/TypeScript** technologies. I have a proven track record delivering national government and regulatory systems, designing RESTful APIs, optimizing MSSQL databases, and automating complex reporting workflows.
 
 - 👋 Hi, I'm **[@Noman599033](https://github.com/Noman599033)** based in **Dhaka, Bangladesh**
-- 💼 Currently working as a **Software Engineer @ Computer Network Systems (CNS) Limited** on enterprise **Laravel**, **RESTful APIs**, and **MSSQL** architectures
+- 💼 Currently working on enterprise **Laravel**, **Javascript**, **RESTful APIs**, and **MSSQL** architectures
 - 🔭 Currently exploring **Next.js, TypeScript, and Docker** while building modern full-stack web applications
 - 🛠️ Experienced with **Laravel (v6/10/12), React.js, Vue.js, Node.js, Express.js, MSSQL, MySQL, and MongoDB**
 - 🌱 Recently built **[GariBondhu](https://github.com/Noman599033/GariBondhu)** (Laravel 12 + Vue 3 car rental platform), **[BDCrops](https://github.com/Noman599033/bdcrops)** (PHP e-commerce), and **[World Cup Football](https://github.com/Noman599033/world_cup_football)** (React + TypeScript)
