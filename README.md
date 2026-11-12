@@ -1,13 +1,120 @@
+<!--- banner --->
+<p align="center">
+  <img src="./banner/github_banner.png" alt="Md. Abdullah-Al-Noman - Software Engineer" width="100%" />
+</p>
 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Noman599033&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Noman599033&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Noman599033&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--- title --->
+<div align="center">
+  <h1>Hi 👋, I'm Md. Abdullah-Al-Noman</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=2B90FF&center=true&vCenter=true&width=580&lines=Software+Engineer+%40+CNS+Limited;Full-Stack+Developer+(Laravel+%26+React);3%2B+Years+Building+Enterprise+Web+Apps;Exploring+Next.js%2C+TypeScript+%26+Modern+Web" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!--- about --->
+## <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32" /> <b>ABOUT ME:</b>
+
+I am a **Software Engineer** with **3+ years of professional experience** building scalable, enterprise-grade web applications using **PHP (Laravel)** and modern **JavaScript/TypeScript** technologies. I have a proven track record delivering national government and regulatory systems, designing RESTful APIs, optimizing MSSQL databases, and automating complex reporting workflows.
+
+- 👋 Hi, I'm **[@Noman599033](https://github.com/Noman599033)** based in **Dhaka, Bangladesh**
+- 💼 Currently working as a **Software Engineer @ Computer Network Systems (CNS) Limited** on enterprise **Laravel**, **RESTful APIs**, and **MSSQL** architectures
+- 🔭 Currently exploring **Next.js, TypeScript, and Docker** while building modern full-stack web applications
+- 🛠️ Experienced with **Laravel (v6/10/12), React.js, Vue.js, Node.js, Express.js, MSSQL, MySQL, and MongoDB**
+- 🌱 Recently built **[GariBondhu](https://github.com/Noman599033/GariBondhu)** (Laravel 12 + Vue 3 car rental platform), **[BDCrops](https://github.com/Noman599033/bdcrops)** (PHP e-commerce), and **[World Cup Football](https://github.com/Noman599033/world_cup_football)** (React + TypeScript)
+- 💬 Ask me about **Laravel Architecture, RESTful APIs, MSSQL Query Optimization, and Full-Stack Web Development**
+- 🌐 Explore my **[Portfolio](https://noman-portfolio-033.netlify.app/)**
+- 📫 Feel free to reach me at **[abdnoman55@gmail.com](mailto:abdnoman55@gmail.com)**
+
+<br/>
+
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35" /> <b>FOLLOW ME ON SOCIALS:</b>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-al-noman-16b45b18b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" />
+  </a>
+  <a href="https://github.com/Noman599033" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" />
+  </a>
+  <a href="mailto:abdnoman55@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" />
+  </a>
+  <a href="https://noman-portfolio-033.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="36" />
+  </a>
+</p>
+
+<br/>
+
+<!--- technology --->
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35" /> <b>TECHNOLOGY STACK:</b>
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=php,js,ts,html,css,py,java,c)](https://github.com/Noman599033)
+
+### Frontend & CSS Frameworks:
+[![Frontend & CSS Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,jquery,sass)](https://github.com/Noman599033)
+
+### Backend & Frameworks:
+[![Backend & Frameworks](https://skillicons.dev/icons?i=laravel,nodejs,express)](https://github.com/Noman599033)
+
+### Databases:
+<p align="left">
+  <a href="https://github.com/Noman599033">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis" alt="Databases" />
+  </a>
+  <a href="https://github.com/Noman599033">
+    <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" height="48" />
+  </a>
+</p>
+
+### Deployment & Hosting:
+[![Deployment & Hosting](https://skillicons.dev/icons?i=vercel,netlify,firebase,aws)](https://github.com/Noman599033)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ps,ai)](https://github.com/Noman599033)
+
+### Tools & Platforms:
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,phpstorm,vscode,postman,docker)](https://github.com/Noman599033)
+
+<br/>
+
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30" /> <b>GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noman599033/Noman599033/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noman599033/Noman599033/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Noman599033/Noman599033/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### GitHub Statistics:
+| <img align="center" src="https://github-readme-stats.shion.dev/api?username=Noman599033&show_icons=true&theme=swift&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Noman599033&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> |
+| :---: | :---: |
+
+### Profile Summary & Streak:
+| <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Noman599033&theme=default" alt="Profile Summary" /> | <img align="center" src="https://streak-stats.demolab.com/?user=Noman599033&theme=swift&hide_border=true" alt="GitHub Streak" /> |
+| :---: | :---: |
+
+<br/>
+
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /> <b>RANDOM DEV QUOTE:</b>
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Random Dev Quote" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Noman599033&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--- visit count --->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Noman599033&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
