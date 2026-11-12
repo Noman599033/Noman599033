@@ -109,7 +109,7 @@ I am a **Software Engineer** with **3+ years of professional experience** buildi
 <!--- random quote --->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" /> <b>RANDOM DEV QUOTE:</b>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="150" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="400" height="200" alt="Random Dev Quote" />
 </p>
 
 ---
