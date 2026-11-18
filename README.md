@@ -65,7 +65,7 @@
 ### Databases:
 <p align="left">
   <a href="https://github.com/Noman599033">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,postgresql" alt="Databases" />
   </a>
   <a href="https://github.com/Noman599033">
     <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" height="48" />
